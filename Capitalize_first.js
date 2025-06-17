@@ -5,4 +5,4 @@ const capitalizeFirst = (str) => {
  console.log(string);
  
 }
-capitalizeFirst("I am learning JavaScript")
+    capitalizeFirst("I am learning JavaScript");
