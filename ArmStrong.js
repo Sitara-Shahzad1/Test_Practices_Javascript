@@ -20,7 +20,7 @@ function findArmstrongNumbers(limit) {
     if (sum === i) {
       armstrongNumbers.push(i);
     }
-  }
+  } debugger;
 
   console.log("Armstrong numbers between 1 and " + limit + " are:");
   console.log(armstrongNumbers);
